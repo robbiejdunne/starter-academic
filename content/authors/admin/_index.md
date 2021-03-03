@@ -8,18 +8,16 @@ superuser: true
 # Role/position/tagline
 role: Writer, Data Analyst
 
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My inerests include sports, writing, statistics, machine learning, data visualisation and culture.
 
 # Interests to show in About widget
 interests:
 - Sport
 - Reading
+- Statistics
+- Machine Learning
+- Programming
 
 # Education to show in About widget
 education:
@@ -69,6 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a writer and data analyst from Ireland currently living in Madrid, Spain.
+I am a writer and data analyst from Ireland currently living in Madrid, Spain. After studying journalism, I moved to Madrid and worked for one of the biggest sports newspapers n the country while learning to speak Spanish. I wrote a book about the football club, Rayo Vallecano, and it is in Spain where my love for data analysis began. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
