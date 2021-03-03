@@ -22,15 +22,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Higher Diploma in Science in Data Analytics
+    year: 2021
+  - course: Degree in Media Production Management
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -67,6 +62,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a writer and data analyst from Ireland currently living in Madrid, Spain. After studying journalism, I moved to Madrid and worked for one of the biggest sports newspapers n the country while learning to speak Spanish. I wrote a book about the football club, Rayo Vallecano, and it is in Spain where my love for data analysis began. 
+I am a writer and data analyst from Ireland currently living in Madrid, Spain. After studying journalism and graduating with a degree in Media Management, I moved to Madrid and worked for one of the biggest sports newspapers in the country while learning to speak Spanish. I wrote a book about the football club, Rayo Vallecano, and it is in Spain where my love for data analysis began. I returned to college to complete a Higher Diploma in Science in Data Analytics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
